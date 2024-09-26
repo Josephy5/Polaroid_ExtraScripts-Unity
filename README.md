@@ -1,3 +1,5 @@
+![CameraFlash](https://github.com/user-attachments/assets/9d257f95-31e1-4056-8aa9-68a3d38cda7f)
+
 # Polaroid Extra Scripts
 
 Scripts that I made for Serious Point Games for a photo taking game mechanic in conjunction with the Polaroid LUT profile. 
