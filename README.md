@@ -9,4 +9,5 @@ They are just simple scripts for camera flash and screen photo taking.
 
 ## Credits
 [Take PHOTOS in Unity (POLAROID Pictures Camera UI)](https://www.youtube.com/watch?v=8LrTtfZedOk)
+<br><br>
 [Snapshot Tutorial: Making Image Files From Unity Cameras](https://www.youtube.com/watch?v=d-56p770t0U)
